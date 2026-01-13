@@ -34,3 +34,4 @@ OUTPUT
 
 Above Mentioned code files of index.html, style.css , script.js Files
 
+<img width="946" height="436" alt="Image" src="https://github.com/user-attachments/assets/41ad99e0-10f9-49bb-ac6d-d60b9319996b" />
