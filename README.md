@@ -24,4 +24,4 @@ The navigation bar is placed at the bottom of the interface, following modern mo
 
 OUTPUT
 
-[REDESIGN A  WEBSITE LANDING  PAGE (1).pdf](https://github.com/user-attachments/files/24595120/REDESIGN.A.WEBSITE.LANDING.PAGE.1.pdf)
+[Amazon.pdf](https://github.com/user-attachments/files/24595184/Amazon.pdf)
