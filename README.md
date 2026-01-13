@@ -22,7 +22,7 @@ The service highlights section is displayed using icons with descriptive labels 
 
 The navigation bar is placed at the bottom of the interface, following modern mobile design standards. It includes essential options such as Home, Deals, Orders, Cart, and Account. This fixed navigation bar ensures that users can easily move between major sections of the application at any time, enhancing accessibility and reducing navigation effort.
 
-#OUTPUT
+OUTPUT
 
 [REDESIGN A  WEBSITE LANDING  PAGE (1).pdf](https://github.com/user-attachments/files/24594579/REDESIGN.A.WEBSITE.LANDING.PAGE.1.pdf)
 
