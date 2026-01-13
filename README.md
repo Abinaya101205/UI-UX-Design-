@@ -10,7 +10,7 @@ Duration: 4 weeks
 
 Mentor : Neela santhosh 
 
-Description 
+Description (Task 1)
 
 The presented interface is an improved version of the Amazon.in home screen, designed with a focus on enhanced usability, visual clarity, and user engagement. The layout follows a structured and user-centered design approach, ensuring that users can easily browse products, access services, and complete shopping tasks efficiently.
 
