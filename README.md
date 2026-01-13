@@ -22,6 +22,10 @@ The service highlights section is displayed using icons with descriptive labels 
 
 The navigation bar is placed at the bottom of the interface, following modern mobile design standards. It includes essential options such as Home, Deals, Orders, Cart, and Account. This fixed navigation bar ensures that users can easily move between major sections of the application at any time, enhancing accessibility and reducing navigation effort.
 
+#OUTPUT
+
+[REDESIGN A  WEBSITE LANDING  PAGE (1).pdf](https://github.com/user-attachments/files/24594579/REDESIGN.A.WEBSITE.LANDING.PAGE.1.pdf)
+
 The product display section presents items in a well-organized grid format. High-quality product images are used to capture user interest and provide a realistic view of the items. The consistent alignment and spacing between product cards improve readability and visual balance. This section is designed to support smooth scrolling and effortless product discovery.
 
 The improved design emphasizes better spacing, alignment, and visual hierarchy, making the interface appear less crowded and more user-friendly. The background color and contrast are carefully chosen to reduce eye strain while maintaining a modern and appealing look. Typography is clear and readable, supporting users of different age groups.
