@@ -24,11 +24,4 @@ The navigation bar is placed at the bottom of the interface, following modern mo
 
 OUTPUT
 
-[REDESIGN A  WEBSITE LANDING  PAGE (1).pdf](https://github.com/user-attachments/files/24594579/REDESIGN.A.WEBSITE.LANDING.PAGE.1.pdf)
-
-The product display section presents items in a well-organized grid format. High-quality product images are used to capture user interest and provide a realistic view of the items. The consistent alignment and spacing between product cards improve readability and visual balance. This section is designed to support smooth scrolling and effortless product discovery.
-
-The improved design emphasizes better spacing, alignment, and visual hierarchy, making the interface appear less crowded and more user-friendly. The background color and contrast are carefully chosen to reduce eye strain while maintaining a modern and appealing look. Typography is clear and readable, supporting users of different age groups.
-
-Overall, the improved Amazon.in interface demonstrates an effective balance between aesthetics and functionality. The design supports intuitive navigation, clear information presentation, and engaging visuals. By focusing on user needs, accessibility, and visual consistency, the interface enhances the overall shopping experience and encourages prolonged user interaction.
-
+[REDESIGN A  WEBSITE LANDING  PAGE (1).pdf](https://github.com/user-attachments/files/24595120/REDESIGN.A.WEBSITE.LANDING.PAGE.1.pdf)
