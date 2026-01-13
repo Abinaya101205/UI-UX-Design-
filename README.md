@@ -42,4 +42,4 @@ This project presents a redesigned WhatsApp user interface that focuses on clari
 
 OUTPUT
 
-
+[WhatsApp.pdf](https://github.com/user-attachments/files/24596557/WhatsApp.pdf)
