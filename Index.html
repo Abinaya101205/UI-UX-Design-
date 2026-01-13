@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>WorldTaste — Global Food Delivery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header / Nav -->
+  <header class="site-header">
+    <div class="brand">
+      <div class="logo">🌎</div>
+      <div class="brand-text">
+        <h1>WorldTaste</h1>
+        <small>Global Food Delivery</small>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <a href="#home" class="nav-link">Home</a>
+      <a href="#explore" class="nav-link">Explore</a>
+      <a href="#about" class="nav-link">About</a>
+      <a href="#services" class="nav-link">Services</a>
+      <a href="#contact" class="nav-link">Contact</a>
+    </nav>
+
+    <div class="auth">
+      <button id="loginBtn" class="btn primary">Login</button>
+      <button id="darkToggle" class="btn small">Dark</button>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section id="home" class="hero">
+    <div class="hero-inner">
+      <h2 class="hero-title">Taste the <span class="accent">World</span> at Home</h2>
+      <p class="hero-sub">Discover authentic international cuisines from the best restaurants around the globe.</p>
+
+      <div class="search-wrap">
+        <input id="globalSearch" type="search" placeholder="Search cuisine, restaurant, or dish..." />
+        <button id="searchBtn" class="btn circle">🔍</button>
+      </div>
+
+      <div class="hero-ctas">
+        <button class="btn primary" id="exploreBtn">Start Exploring</button>
+        <button class="btn ghost" id="viewRestaurants">View Restaurants</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Explore / Cuisines -->
+  <section id="explore" class="explore">
+    <h2 class="section-title">Explore Cuisines by Country</h2>
+
+    <div class="cuisine-row" role="list" id="cuisineRow">
+      <!-- JS will insert cuisine cards here -->
+    </div>
+
+    <!-- Dishes area -->
+    <div id="dishesArea" class="dishes-area">
+      <!-- JS will render the selected cuisine's 12 dishes -->
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="about">
+    <h2 class="section-title">About WorldTaste</h2>
+    <p>We're passionate about bringing authentic international cuisines to your doorstep. Our platform connects food lovers with the finest restaurants and chefs from around the world.</p>
+
+    <div class="feature-grid">
+      <div class="feature-card">🌐<strong> Global Reach</strong><p>Connecting you with authentic restaurants from 5 countries</p></div>
+      <div class="feature-card">🧑‍🍳<strong> Expert Chefs</strong><p>Partnering with renowned chefs</p></div>
+      <div class="feature-card">🎖️<strong> Quality Assured</strong><p>Every restaurant is carefully vetted for authenticity</p></div>
+      <div class="feature-card">⏰<strong> Fast Delivery</strong><p>Quick delivery without compromising quality</p></div>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section id="services" class="services">
+    <h2 class="section-title">Our Services</h2>
+    <div class="services-list">
+      <article class="service">
+        <h4>Food Delivery</h4>
+        <p>Fast and reliable delivery of authentic international dishes with temperature-controlled packaging.</p>
+      </article>
+
+      <article class="service">
+        <h4>Catering Services</h4>
+        <p>Large-scale catering for events with authentic international cuisine options and professional presentation.</p>
+      </article>
+
+      <article class="service">
+        <h4>Cooking Classes</h4>
+        <p>Learn from partner chefs with hands-on cooking classes for all skill levels.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="contact" class="site-footer">
+    <div>
+      <p>Owner: Dr. Mahendran</p>
+      <p>☎️ +1 (555) 123-4567 • 📧 info@worldtaste.com • 📍 123 Food Street, NYC</p>
+    </div>
+    <small>© 2025 WorldTaste</small>
+  </footer>
+
+  <!-- Login Modal -->
+  <div id="loginModal" class="modal hidden" aria-hidden="true">
+    <div class="modal-card">
+      <button class="modal-close" id="closeLogin">&times;</button>
+      <h3>Login to WorldTaste</h3>
+      <form id="loginForm" class="form">
+        <input type="text" id="name" name="name" placeholder="Full name (optional)" />
+        <input type="email" id="email" name="email" placeholder="Email" required />
+        <input type="password" id="password" name="password" placeholder="Password" required />
+        <div class="form-actions">
+          <button type="submit" class="btn primary">Sign in</button>
+          <button type="button" class="btn ghost" id="modalCancel">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Toast container -->
+  <div id="toastContainer" class="toast-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
